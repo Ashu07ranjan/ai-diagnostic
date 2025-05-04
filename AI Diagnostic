@@ -1,0 +1,52 @@
+AI Diagnostic
+AI Diagnostic is a web-based application designed to assist users in diagnosing issues with their devices using artificial intelligence. Built with Next.js and Tailwind CSS, this application offers a user-friendly interface for efficient diagnostics.
+
+Features
+* AI-Powered Diagnostics: Utilize machine learning algorithms to identify potential issues.
+
+* Responsive Design: Ensures compatibility across various devices and screen sizes.
+
+* Modular Architecture: Organized codebase with components, hooks, and libraries for scalability.
+
+Technologies Used
+-Next.js
+
+-Tailwind CSS
+
+-TypeScript
+
+-Getting Started
+
+Prerequisites
+
+-Node.js (v14 or later)
+-pnpm package manager
+
+Installation:
+   Clone the repository:
+        - git clone https://github.com/Ashu07ranjan/ai-diagnostic.git
+   Navigate to the project directory:
+        - cd ai-diagnostic
+   Install dependencies:
+        - pnpm install
+
+Running the Application:
+Start the development server:
+   - pnpm dev
+
+Project Structure :
+ai-diagnostic/
+├── app/
+├── components/
+├── hooks/
+├── lib/
+├── public/
+├── styles/
+├── .gitignore
+├── package.json
+├── pnpm-lock.yaml
+├── tailwind.config.js
+├── tsconfig.json
+└── README.md
+
+
